@@ -37,9 +37,6 @@ cd local_projeto/wallet-java/src/br/esig/com/nujava/main/
 javac BancoDigital.java
 ```
 
-### **Autor**
-
-- **Alex Rogério** - [alexrogeriodj](https://github.com/alexrogeriodj)
 
 ### Palavras-chave
 
